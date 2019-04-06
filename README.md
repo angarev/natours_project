@@ -1,1 +1,1 @@
-Website created with sass design by Jonas Schmedtmann.
+Website created with sass. Design by Jonas Schmedtmann. [ Demo link](https://angarev.github.io/natours_project/)
